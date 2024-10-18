@@ -30,5 +30,5 @@
     // 필드(property) 에 접근 불가 
     //p1.firstname = "xxx"
     //p1.lastname = "xxx"
-
+   
 })()
